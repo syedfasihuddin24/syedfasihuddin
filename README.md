@@ -51,8 +51,9 @@ Hi, I'm **Syed Fasihuddin** — a **Java Full Stack Developer** and **AI/ML Enth
     srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/snake-light.svg">
 
   <img
+    src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/snake-light.svg"
     alt="Snake eating my contributions"
-    src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/snake-light.svg">
+    width="100%">
 </picture>
 
 </div>
