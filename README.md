@@ -39,6 +39,8 @@ Hi, I'm **Syed Fasihuddin** — a **Java Full Stack Developer** and **AI/ML Enth
 
 ## 🐍 Contribution Graph
 
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
 <div align="center">
 
 <picture>
@@ -51,12 +53,14 @@ Hi, I'm **Syed Fasihuddin** — a **Java Full Stack Developer** and **AI/ML Enth
     srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/snake-light.svg">
 
   <img
-    src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/snake-light.svg"
     alt="Snake eating my contributions"
-    width="100%">
+    src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/snake-light.svg">
 </picture>
 
 </div>
+
+<br>
+<br>
 
 ## 🚀 Featured Projects
 
