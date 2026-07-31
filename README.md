@@ -39,16 +39,20 @@ Hi, I'm **Syed Fasihuddin** — a **Java Full Stack Developer** and **AI/ML Enth
 
 ## 🐍 Contribution Graph
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake-dark.svg"/>
 
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake.svg"/>
 
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+</div>
 
 ## 🚀 Featured Projects
 
