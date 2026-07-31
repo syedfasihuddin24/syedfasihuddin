@@ -7,6 +7,26 @@
     src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/main/light.svg">
 </picture>
 
+## 👋 About Me
+
+Hi, I'm **Syed Fasihuddin** — a **Java Full Stack Developer** and **AI/ML Enthusiast** from India.
+
+💡 I enjoy building scalable web applications, intelligent AI solutions, and solving real-world problems through software engineering.
+
+- 🌱 Currently learning **Advanced Spring Boot, React, System Design & DSA**
+- 💻 Passionate about **Java Full Stack Development & Artificial Intelligence**
+- 🚀 Building production-ready projects with **Spring Boot, React, MySQL & JWT**
+- 🤖 Exploring **Machine Learning, NLP, Computer Vision & Generative AI**
+- 🎯 Goal: **Software Engineer specializing in Java Full Stack Development**
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,mysql,firebase,python,fastapi,git,github,vscode,idea,postman,docker&perline=9" />
+
+</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -29,3 +49,128 @@
   <img alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="110" align="center">
+<a href="https://github.com/syedfasihuddin24/electronichouse">
+<img src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/main/assets/projects/EH.png" width="90" alt="Electronic House"/>
+</a>
+</td>
+
+<td>
+
+### 🏪 Electronic House
+
+**Full Stack Electronics Store** with Admin Dashboard, JWT Authentication, secure role-based authentication, and responsive UI.
+
+**Tech Stack**
+
+`Spring Boot` `React` `MySQL` `JWT`
+
+<a href="https://github.com/syedfasihuddin24/electronichouse">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="110" align="center">
+<a href="https://github.com/syedfasihuddin24/StudentManagementSystem">
+<img src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/main/assets/projects/SMS.png" width="90" alt="Student Management"/>
+</a>
+</td>
+
+<td>
+
+### 🎓 Student Management System
+
+**Multi-role Management Platform** featuring Admin, Teacher, Student dashboards with analytics and JWT Authentication.
+
+**Tech Stack**
+
+`Spring Boot` `React` `MySQL` `JWT`
+
+<a href="https://github.com/syedfasihuddin24/StudentManagementSystem">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="110" align="center">
+<a href="https://github.com/syedfasihuddin24/ai-resume-analyzer">
+<img src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/main/assets/projects/RA.png" width="90" alt="Resume Analyzer"/>
+</a>
+</td>
+
+<td>
+
+### 📄 AI Resume Analyzer
+
+Analyze resumes, extract skills, and calculate ATS compatibility using AI-powered NLP.
+
+**Tech Stack**
+
+`React` `FastAPI` `spaCy` `Tailwind CSS`
+
+<a href="https://github.com/syedfasihuddin24/ai-resume-analyzer">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="110" align="center">
+<a href="https://github.com/syedfasihuddin24/fake-news-deepfake-detection">
+<img src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/main/assets/projects/FN.png" width="90" alt="Fake News"/>
+</a>
+</td>
+
+<td>
+
+### 🛡️ Fake News & Deepfake Detection
+
+Advanced AI pipeline to classify misinformation and detect deepfake content.
+
+**Tech Stack**
+
+`Python` `AI/ML`
+
+<a href="https://github.com/syedfasihuddin24/fake-news-deepfake-detection">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<details>
+
+<summary><b>📂 View More Projects</b></summary>
+
+<br>
+
+- 👁️ **YOLO Object Detection App**
+- ⚡ **AI Text Summarizer**
+- 📈 **Tradewise**
+- 🌐 **BharatLingo**
+
+</details>
