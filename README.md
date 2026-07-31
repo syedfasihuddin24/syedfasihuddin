@@ -16,3 +16,16 @@
   <img height="180em"
        src="https://github-readme-stats-4632.vercel.app/api/top-langs/?username=syedfasihuddin24&layout=compact&theme=transparent&hide_border=true"/>
 </p>
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/output/github-contribution-grid-snake.svg">
+</picture>
