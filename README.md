@@ -174,3 +174,112 @@ Advanced AI pipeline to classify misinformation and detect deepfake content.
 - 🌐 **BharatLingo**
 
 </details>
+
+## 🏆 Certifications
+
+<table>
+<tr>
+<td width="40" align="center">🥇</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/java-full-stack.pdf">Java Full Stack Developer Virtual Internship</a>
+
+**Google for Developers • EduSkills • AICTE**
+
+📅 **Oct 2025 – Dec 2025** &nbsp;&nbsp; ⭐ **Grade: O**
+
+</td>
+</tr>
+
+<tr>
+<td width="40" align="center">🤖</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/artificial-intelligence.pdf">Artificial Intelligence Virtual Internship</a>
+
+**GenZ Educate Wings • AICTE • MSME**
+
+📅 **Dec 2024 – Feb 2025**
+
+</td>
+</tr>
+
+<tr>
+<td width="40" align="center">☁️</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/data-engineering.pdf">Data Engineering Virtual Internship</a>
+
+**AWS Academy • EduSkills • AICTE**
+
+📅 **Apr 2025 – Jun 2025** &nbsp;&nbsp; ⭐ **Grade: A**
+
+</td>
+</tr>
+
+<tr>
+<td width="40" align="center">📊</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/deloitte-data-analytics.pdf">Deloitte Data Analytics Job Simulation</a>
+
+**Deloitte • Forage**
+
+📅 **Jan 2026**
+
+</td>
+</tr>
+
+<tr>
+<td width="40" align="center">☁️</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/salesforce-developer.pdf">Salesforce Developer with Agentblazer Champion</a>
+
+**Salesforce • SmartBridge • AICTE**
+
+📅 **May 2025 – Jul 2025**
+
+</td>
+</tr>
+
+<tr>
+<td width="40" align="center">📱</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/android-developer.pdf">Android Developer Virtual Internship</a>
+
+**Google for Developers • EduSkills • AICTE**
+
+📅 **Jan 2025 – Mar 2025** &nbsp;&nbsp; ⭐ **Grade: B**
+
+</td>
+</tr>
+
+<tr>
+<td width="40" align="center">🌐</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/web-development.pdf">Web Development Virtual Internship</a>
+
+**SkillDzire • AICTE**
+
+📅 **May 2025 – Jun 2025**
+
+</td>
+</tr>
+
+<tr>
+<td width="40" align="center">🎓</td>
+<td>
+
+### <a href="https://github.com/syedfasihuddin24/syedfasihuddin24/blob/main/assets/certificates/nptel-iot.pdf">Introduction to Internet of Things</a>
+
+**NPTEL • IIT Kharagpur • SWAYAM • Ministry of Education**
+
+📅 **Jan 2025 – Apr 2025**
+
+</td>
+</tr>
+
+</table>
