@@ -49,7 +49,7 @@
 <!-- Featured Projects -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/main/projects.svg" alt="Featured Projects" width="100%" />
+<img src="https://raw.githubusercontent.com/syedfasihuddin24/syedfasihuddin24/main/projects_1.svg" alt="Featured Projects" width="100%" />
 </div>
 
 <!-- Social Media -->
